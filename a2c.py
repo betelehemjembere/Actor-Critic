@@ -1,3 +1,9 @@
+                #group member name and ID
+            # Betelehem Jembere – UGR/3643/15
+            # Dawit Genene – UGR/0905/15
+            # Kirubel Tesfaye – UGR/9575/15
+
+
 import numpy as np
 import random
 
